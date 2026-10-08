@@ -3,6 +3,7 @@
 **Does an AI resume screener treat candidates differently because of their name, and can we remove that bias from both its decisions and its internal representations?**
 
 Built for the 180DC Bristol × BDSS Datathon *"Exploring Bias in Hiring"* (Oct 2026).
+**Team**(Team IEN): Changyeon Chong, Seungho Kim
 
 ## The problem
 
